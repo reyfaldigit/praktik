@@ -1,0 +1,43 @@
+h1 {
+  color: rgb(0, 181, 253);
+}
+
+p {
+  color: rgb(250, 187, 13);
+  font-size: 30px;
+}
+
+body {
+  background-color: rgb(215, 250, 247);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: whitesmoke;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+ol {
+  text-align: justify;
+  font-size: 20px;
+}
+
+a:hover {
+  color: chartreuse;
+}
+
+#instagram {
+  color: rgb(224, 29, 62);
+}
+
+#linkedin {
+  color: rgb(9, 107, 235);
+}
